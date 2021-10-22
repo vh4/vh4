@@ -15,4 +15,4 @@
   - [x] Arch Linux
 - 👯 I’m looking to collaborate on Google Developer
 
-[![Lang](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vh4&layout=compact&langs_count=8&hide_border=true&theme=algolia)![Stats](https://github-readme-stats.vercel.app/api?username=vh4&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/vh4) 
+![Stats](https://github-readme-stats.vercel.app/api?username=vh4&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/vh4) 
