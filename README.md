@@ -1,5 +1,4 @@
 ### Hello, i'm Fathoni Waseso Jati! 👋
-- :man_office_worker: I’m currently working on Fivver Freelance Web Developer
 - :open_book: I’m currently learning Machine Learning
 - Linkdin : https://www.linkedin.com/in/fathoni-waseso-jati-91a918206/
 - My Programming Language :
