@@ -12,7 +12,7 @@
 - Skills :
   - [x] Internet of Things 
   - [x] Web Developer
-  - [x] Machine Learning (Now Currect Learning)
+  - [x] Machine Learning
 
 - I’m looking to collaborate on Google Developer
 
