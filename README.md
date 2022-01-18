@@ -19,4 +19,9 @@
   
 ![Stats](https://github-readme-stats.vercel.app/api?username=vh4&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true)
 
+![](https://komarev.com/ghpvc/?username=vh4&color=brightgreen)
+[![Years Badge](https://badges.pufler.dev/years/vh4)](https://github.com/vh4)
+[![Years Badge](https://badges.pufler.dev/repos/vh4)](https://github.com/vh4)
+[![Years Badge](https://badges.pufler.dev/commits/all/vh4)](https://github.com/vh4)
+ 
 </div>
