@@ -3,9 +3,9 @@
 #### I’m currently learning about Machine Learning
 
 #### My Programming and Framework
-  - [x] Web Developer : PHP | CSS | HTML | Javascript | NodeJS | ExpressJS | Laravel | Boostraps | TailwindCSS
-  - [x] Desktop App : Python | C | C++
-  - [x] Android Dev : React Native 
+  - [x] PHP | CSS | HTML | Javascript | NodeJS | ExpressJS | Laravel | Boostraps | TailwindCSS - Web Developer
+  - [x] Python | C | C++ - Desktop Application
+  - [x] React Native - Android Developer
 #### I'm using OS like Ubuntu, Parrot OS, Arch Linux and Windows
 
 #### My Skills is
