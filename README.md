@@ -1,5 +1,5 @@
 ### i'm Fathoni Waseso Jati👋
-- :open_book: I’m currently learning Machine Learning
+- I’m currently learning about Machine Learning
 - My Programming and Framework :
   - [x] Web Developer : PHP | CSS | HTML | Javascript | NodeJS | ExpressJS | Laravel | Boostraps | TailwindCSS
   - [x] Desktop App : Python | C | C++
