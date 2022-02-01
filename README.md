@@ -2,7 +2,7 @@
 
 <p><em> ✅ I’m currently learning about Machine Learning </em></p>
 
-<p> My Programming and Framework </p>
+### My Programming and Framework
   - [x] PHP | CSS | HTML | Javascript | NodeJS | ExpressJS | Laravel | Boostraps | TailwindCSS - Web Developer
   - [x] Python | C | C++ - Desktop Application
   - [x] React Native - Android Developer
