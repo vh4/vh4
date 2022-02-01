@@ -1,8 +1,8 @@
 <div align="center"><h1> Hi, i'm Tony <img src="https://github.com/vh4/vh4/blob/main/Hi.gif" width="30px"> </h1></div>
-<img align='right' src="https://www.pngplay.com/wp-content/uploads/13/Programmer-PNG-Free-File-Download.png" width="500">
 <p><em> ✅ I’m currently learning about Machine Learning </em></p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<img align='right' src="https://www.pngplay.com/wp-content/uploads/13/Programmer-PNG-Free-File-Download.png" width="300">
 
 ```javascript
 const descriptions = {
