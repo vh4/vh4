@@ -1,8 +1,7 @@
 
-### <div align="center"> Hi, i'm Tony <img src="https://github.com/vh4/vh4/blob/main/Hi.gif" width="30px"></div>
+# <div align="center"> Hi, i'm Tony <img src="https://github.com/vh4/vh4/blob/main/Hi.gif" width="30px"><br></div>
 
 #### ✅ I’m currently learning about Machine Learning
-#### ✅ I’m student 7th at telkom university
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 <img align='right' src="https://www.pngmart.com/files/11/Hacker-PNG-Image.png" width="250" height="230">
