@@ -3,7 +3,7 @@
 #### ✅ I’m currently learning about Machine Learning 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-<img align='left' src="https://www.pngmart.com/files/11/Hacker-PNG-Image.png" width="150" height="200">
+<img align='left' src="https://www.pngmart.com/files/11/Hacker-PNG-Image.png" width="200" height="200">
 
 ```javascript
 const descriptions = {
