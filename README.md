@@ -1,7 +1,8 @@
+
+### <div align="center"> Hi, i'm Tony <img src="https://github.com/vh4/vh4/blob/main/Hi.gif" width="30px"></div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
-<div align="center"><h1> Hi, i'm Tony <img src="https://github.com/vh4/vh4/blob/main/Hi.gif" width="30px"> </h1></div>
 
 #### ✅ I’m currently learning about Machine Learning 
 
