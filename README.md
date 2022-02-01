@@ -14,7 +14,7 @@ const descriptions = {
                         Internet of Things: "I'm System Integrated",
                         Machine Learning: "I'm make Prediction / Forecasting and Computer Vision"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on web developer and IoT"
+ challenge: "I am doing the #anything challenge focused on web developer and IoT"
 }
 ```
 
