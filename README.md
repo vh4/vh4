@@ -19,6 +19,12 @@
   
 ![Stats](https://github-readme-stats.vercel.app/api?username=vh4&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true)
 
-
+ <br>
  
+  
+[![Linkedin Badge](https://img.shields.io/badge/-fathoniwasesojati-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fathoni-waseso-jati-91a918206/)](https://www.linkedin.com/in/fathoni-waseso-jati-91a918206/)
+[![Twitter Badge](https://img.shields.io/badge/-@__fathoniwasesojati-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/__fathoniwasesojati)](https://twitter.com/__fathoniwasesojati)
+[![Instagram Badge](https://img.shields.io/badge/-@fathoniwasesojati-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/fathoniwasesojati/)](https://instagram.com/fathoniwasesojati)
+[![Gmail Badge](https://img.shields.io/badge/-fathoniwasesojati-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:fathoniwasesojati@gmail.com)](mailto:fathoniwasesojati@gmail.com)
+  
 </div>
