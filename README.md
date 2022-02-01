@@ -18,7 +18,7 @@ const descriptions = {
 }
 ```
 
-#### I’m looking to collaborate on Google Developer
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Statistic github and contact me...
 
 <div align="center">
   
