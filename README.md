@@ -1,6 +1,6 @@
 <h2> Hi, i'm Fathoni Waseso Jati <img src="https://github.com/vh4/vh4/blob/main/Hi.gif" width="30px"> </h2>
 
-#### I’m currently learning about Machine Learning
+<p><em> I’m currently learning about Machine Learning </em></p>
 
 #### My Programming and Framework
   - [x] PHP | CSS | HTML | Javascript | NodeJS | ExpressJS | Laravel | Boostraps | TailwindCSS - Web Developer
