@@ -6,15 +6,15 @@
 
 ```javascript
 const descriptions = {
-  Code: [Javascript, PHP, HTML, CSS, C/C++, Python, Nodejs],
-  Framework: [React, TailwindCSS, Express, Bootstraps, Laravel, Vue],
-  Op-System: ["ParrotOS", "Ubuntu 20.04 LTS", "Windows 11"],
-  Skills: {
+  code: [Javascript, PHP, HTML, CSS, C/C++, Python, Nodejs],
+  framework: [React, TailwindCSS, Express, Bootstraps, Laravel, Vue],
+  op-system: ["ParrotOS", "Ubuntu 20.04 LTS", "Windows 11"],
+  skills: {
                         Website: "I'm Full-Stack Developer",
                         Internet of Things: "I'm System Integrated",
                         Machine Learning: "I'm make Prediction / Forecasting and Computer Vision"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I am doing the #100DaysOfCode challenge focused on web developer and IoT"
 }
 ```
 
