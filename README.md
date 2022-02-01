@@ -19,9 +19,22 @@
   
 ![Stats](https://github-readme-stats.vercel.app/api?username=vh4&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true)
 
-![](https://komarev.com/ghpvc/?username=vh4&color=brightgreen)
-[![Years Badge](https://badges.pufler.dev/years/vh4)](https://github.com/vh4)
-[![Years Badge](https://badges.pufler.dev/repos/vh4)](https://github.com/vh4)
-[![Years Badge](https://badges.pufler.dev/commits/all/vh4)](https://github.com/vh4)
+<p align="center">
+  <a href="https://twitter.com/" target="_blank">
+    <img src="#" alt="Twitter"/>
+  </a>
+  <a href="https://www.linkedin.com/in/" target="_blank">
+    <img src="https://www.linkedin.com/in/fathoni-waseso-jati-91a918206/" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/" target="_blank">
+    <img src="https://www.instagram.com/fathoniwasesojati/" alt="Instagram"/>
+  </a>
+  <a href="https://medium.com/" target="_blank">
+    <img src="#" alt="Medium"/>
+  </a>
+  <a href="https://www.facebook.com/" target="_blank">
+    <img src="https://www.facebook.com/oni.fwj123" alt="Facebook"/>
+  </a>
+</p>
  
 </div>
