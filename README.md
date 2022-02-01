@@ -13,7 +13,7 @@ const descriptions = {
   skills: {
                         Website: "I'm Full-Stack Developer",
                         Internet of Things: "I'm System Integrated",
-                        Machine Learning: "I'm make Prediction / Forecasting and Computer Vision"
+                        Machine Learning: "Prediction & Computer Vision"
                       },
 }
 ```
