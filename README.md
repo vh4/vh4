@@ -1,5 +1,7 @@
 
-# <div align="center"> Hi, i'm Tony <img src="https://github.com/vh4/vh4/blob/main/Hi.gif" width="30px"></div>
+## <div align="center"> Hi, i'm Tony </div>
+<img src="https://github.com/vh4/vh4/blob/main/Hi.gif" width="30px">
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
