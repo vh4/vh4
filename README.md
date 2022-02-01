@@ -1,4 +1,4 @@
-### Hi, i'm Fathoni Waseso Jati <img src="https://github.com/vh4/vh4/blob/main/Hi.gif" width="30px">
+<h2> Hi, i'm Fathoni Waseso Jati <img src="https://github.com/vh4/vh4/blob/main/Hi.gif" width="30px"> </h2>
 
 #### I’m currently learning about Machine Learning
 
