@@ -1,4 +1,4 @@
-<div align="center"><h2> Hi, i'm Tony <img src="https://github.com/vh4/vh4/blob/main/Hi.gif" width="30px"> </h2></div>
+<div align="center"><h1> Hi, i'm Tony <img src="https://github.com/vh4/vh4/blob/main/Hi.gif" width="30px"> </h1></div>
 
 <p><em> ✅ I’m currently learning about Machine Learning </em></p>
 
