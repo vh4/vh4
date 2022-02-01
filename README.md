@@ -27,5 +27,8 @@ const descriptions = {
 [![Twitter Badge](https://img.shields.io/badge/-@_mfwj21-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_mfwj21)](https://twitter.com/_mfwj21)
 [![Instagram Badge](https://img.shields.io/badge/-@fathoniwasesojati-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/fathoniwasesojati/)](https://instagram.com/fathoniwasesojati)
 [![Gmail Badge](https://img.shields.io/badge/-fathoniwasesojati-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:fathoniwasesojati@gmail.com)](mailto:fathoniwasesojati@gmail.com)
-  
 </div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
+
