@@ -28,7 +28,7 @@ const descriptions = {
 }
 ```
 
-### <img src="https://media.giphy.com/media/IqgySmxEgP0rs40ZMB/giphy.gif" width="50">Statistic about me...
+### <img src="https://media.giphy.com/media/IqgySmxEgP0rs40ZMB/giphy.gif" width="50">My statistic...
 
 <div align="center">
   
