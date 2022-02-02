@@ -8,11 +8,9 @@
 [![Instagram Badge](https://img.shields.io/badge/-@fathoniwasesojati-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/fathoniwasesojati/)](https://instagram.com/fathoniwasesojati)
 [![Gmail Badge](https://img.shields.io/badge/-fathoniwasesojati-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:fathoniwasesojati@gmail.com)](mailto:fathoniwasesojati@gmail.com)
 
+ <img align='center' src="https://www.pngmart.com/files/11/Hacker-PNG-Image.png" width="250" height="230">  <p>✅ I’m currently learning about Machine Learning</p>
+  
 </div>
-
-<div>
-  <img align='center' src="https://www.pngmart.com/files/11/Hacker-PNG-Image.png" width="250" height="230">
-  </div>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
