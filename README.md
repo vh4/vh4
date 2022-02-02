@@ -11,7 +11,8 @@
 </div>
 
 <div>
-  <img align='left' src="https://www.pngmart.com/files/11/Hacker-PNG-Image.png" width="250" height="230"> ✅ I’m currently learning about Machine Learning
+  <img align='center' src="https://www.pngmart.com/files/11/Hacker-PNG-Image.png" width="250" height="230">
+  <p>✅ I’m currently learning about Machine Learning</p>
   </div>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
