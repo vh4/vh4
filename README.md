@@ -16,7 +16,7 @@
 
 ```javascript
 const descriptions = {
-  My Best Programming: [Python],
+  My_Best_Programming: [Python],
   code: [Python, Javascript, PHP, HTML, CSS, C/C++, , Nodejs],
   framework: [React, TailwindCSS, Express, Bootstraps, Laravel],
   op-system: ["ParrotOS", "Ubuntu 20.04 LTS", "Windows 11"],
