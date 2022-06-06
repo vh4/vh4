@@ -16,8 +16,9 @@
 
 ```javascript
 const descriptions = {
-  code: [Javascript, PHP, HTML, CSS, C/C++, Python, Nodejs],
-  framework: [React, TailwindCSS, Express, Bootstraps, Laravel, Vue],
+  My Best Programming: [Python],
+  code: [Python, Javascript, PHP, HTML, CSS, C/C++, , Nodejs],
+  framework: [React, TailwindCSS, Express, Bootstraps, Laravel],
   op-system: ["ParrotOS", "Ubuntu 20.04 LTS", "Windows 11"],
   skills: {
                         Website: "I'm Full-Stack Developer",
