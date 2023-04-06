@@ -16,7 +16,7 @@
 ```javascript
 const descriptions = {
   My_Best_Programming: [PHP],
-  Other_Programming: [Python, Javascript, PHP, HTML, CSS],
+  Other_Programming: [Nodejs (Javascript), PHP, HTML, CSS],
   framework: [React, TailwindCSS, Express, Bootstraps, Laravel],
   op-system: ["ParrotOS", "Ubuntu 20.04 LTS", "Windows 11"],
   skills: {
