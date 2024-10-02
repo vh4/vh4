@@ -2,7 +2,7 @@
 # <div align="center"> Hi, i'm Tony </div>
 
 <div align="center">
- <img align='center' src="https://www.pngmart.com/files/11/Hacker-PNG-Image.png" width="250" height="230">  <p>✅ I'm working on backend web development</p>
+ <img align='center' src="https://www.pngmart.com/files/11/Hacker-PNG-Image.png" width="250" height="230">  <p>✅ I'm working on Software Engineer</p>
 </div>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
