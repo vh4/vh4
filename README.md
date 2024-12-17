@@ -12,13 +12,6 @@ const descriptions = {
 
 ```
 
-### <img src="https://media.giphy.com/media/IqgySmxEgP0rs40ZMB/giphy.gif" width="50">My statistic...
-
-<div align="center">
-  
-![Stats](https://github-readme-stats.vercel.app/api?username=vh4&show_icons=true&theme=radical)
-
-</div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
